@@ -1,1 +1,1 @@
-# Black-Litterman-Portfolio-Optimization-Framework-Public
+# Black-Litterman-Portfolio-Optimization-Framework
